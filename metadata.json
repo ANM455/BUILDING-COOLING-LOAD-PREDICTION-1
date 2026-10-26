@@ -1,0 +1,6 @@
+{
+  "name": "Cooling Load ML Predictor",
+  "description": "Interactive machine learning application for predicting building cooling and thermal loads from architectural parameters, featuring Random Forest & Gradient Boosted regressions, 3D envelope preview, sensitivity analysis, and exportable Python code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
